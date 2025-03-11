@@ -34,24 +34,6 @@ This project focuses on **Exploratory Data Analysis (EDA)** for a telecom custom
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - **Jupyter Notebook** for interactive analysis
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/EDA-Customer-Churn.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd EDA-Customer-Churn
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook TCA.ipynb
-   ```
-
 ## Future Improvements
 - Perform **predictive modeling** using Machine Learning.
 - Introduce **feature engineering** for better insights.
